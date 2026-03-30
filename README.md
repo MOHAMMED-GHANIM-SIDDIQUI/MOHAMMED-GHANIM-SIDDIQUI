@@ -1,111 +1,196 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ghanim Siddiqui</h1>
 
 <h3 align="center">
-Applied AI | Data Science | Analytics Systems
+📊 Data Scientist | Analytics Engineer | ML Systems Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=I+build+AI+systems+not+just+models;RAG+%7C+NLP+%7C+Analytics+Workflows;Python+%7C+SQL+%7C+ML+%7C+LLMs;From+Raw+Data+→+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&center=true&vCenter=true&width=1000&lines=Data+→+Insights+→+Decisions;Analytics+%7C+Machine+Learning+%7C+NLP;SQL+%7C+Python+%7C+Visualization;Building+systems+that+drive+impact" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="420"/>
 </p>
 
 ---
 
-## 🧠 What I Actually Do
-
-- Build **end-to-end AI systems (not just notebooks)**
-- Work on **RAG pipelines, NLP systems, and analytics workflows**
-- Turn raw data into **usable decision systems**
-- Mentored **1500+ learners globally** in Data Science & Analytics
-
----
-
-## ⚙️ Current Focus
+## 🧠 Who I Am
 
 ```text
-Building → RAG Systems + NLP Applications
-Improving → ML system design & real-world deployment
-Exploring → Faster inference + better retrieval pipelines
+→ Data-first problem solver
+→ Strong in analytics + ML + real-world workflows
+→ Focus on turning raw data into decision systems
+→ AI is a tool — not the goal
 ```
 
 ---
 
-## 📌 Selected Work
+## 📊 Impact Snapshot
 
-### 🔍 RAG QA System
-- LangChain + FAISS + HuggingFace embeddings  
-- Semantic retrieval + LLM response generation  
-- Streamlit app with real-time QA + TTS  
+```text
+→ 1500+ live mentoring sessions (SQL, Python, ML, Analytics)
+→ Built ML systems for churn prediction & forecasting
+→ Developed NLP systems using embeddings & semantic similarity
+→ Worked on large-scale data pipelines (cleaning + transformation)
+→ Delivered real-world analytics workflows end-to-end
+```
 
 ---
+
+## 📈 What I Actually Work On
+
+### 📊 Data Analysis & Business Insight
+- Exploratory Data Analysis (EDA)
+- KPI tracking & dashboarding
+- Data cleaning, transformation, feature engineering
+- Translating data → business decisions
+
+---
+
+### 🤖 Machine Learning Systems
+- Classification (Logistic Regression, Random Forest)
+- Clustering (K-Means + PCA)
+- Regression (forecasting models)
+- Model evaluation & improvement
+
+---
+
+### 💬 Applied NLP (Selective, not hype)
+- Semantic similarity (Sentence Transformers)
+- Text classification pipelines
+- Duplicate detection systems
+- RAG (as extension, not core identity)
+
+---
+## ⚙️ Tech Stack (What I Actually Use)
+
+### 📊 Data & Analytics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Querying-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 🤖 Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow" />
+</p>
+
+---
+
+### 💬 NLP & Applied AI
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-RAG%20Pipelines-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=for-the-badge" />
+</p>
+
+---
+
+### 📈 Visualization & BI
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-Dashboarding-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PowerBI-Analytics-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-Analysis-217346?style=for-the-badge&logo=microsoft-excel" />
+</p>
+
+---
+
+### 🗄️ Data Infrastructure
+<p align="center">
+  <img src="https://img.shields.io/badge/BigQuery-Cloud%20Warehouse-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-Relational-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ Tools & Deployment
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-Apps-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Colab-Experimentation-F9AB00?style=for-the-badge&logo=googlecolab" />
+</p>
+
+---
+
+## 📌 Selected Projects
 
 ### 📊 Customer Intelligence System
-- Customer segmentation (K-Means + PCA)  
-- Churn prediction (Random Forest, Logistic Regression)  
-- Revenue forecasting model  
+- Segmentation (K-Means + PCA)
+- Churn prediction (RF, Logistic Regression)
+- Revenue forecasting  
+→ Used for **data-driven retention & growth decisions**
 
 ---
 
-### 💬 Semantic Similarity Engine
+### 💬 Semantic Duplicate Detection
 - Sentence Transformers embeddings  
-- Duplicate detection beyond keyword matching  
+- Feature engineering + classification  
+→ Improved intent understanding beyond keywords  
 
 ---
 
 ### 😏 Sarcasm Detection App
 - NLP preprocessing + ML pipeline  
-- Supports PDF / DOCX / TXT inputs  
-- Real-time inference via Streamlit  
+- Multi-format input (PDF, DOCX, TXT)  
+→ Real-time inference via Streamlit  
 
 ---
 
-## 🛠️ Stack (What I Use)
-
-```text
-Python • SQL • Pandas • NumPy • Scikit-learn
-LangChain • HuggingFace • FAISS • TensorFlow
-Streamlit • Tableau • Power BI • BigQuery
-```
+### 🔍 RAG QA System (Extension Work)
+- Semantic retrieval + LLM pipeline  
+- Built as **applied NLP system on top of data pipelines**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHAMMED-GHANIM-SIDDIQUI&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MOHAMMED-GHANIM-SIDDIQUI&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMMED-GHANIM-SIDDIQUI&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MOHAMMED-GHANIM-SIDDIQUI&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧪 How I Approach Problems
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMMED-GHANIM-SIDDIQUI&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🧪 My Approach to Data Problems
 
 ```text
-1. Understand the problem deeply
-2. Define measurable outcome
-3. Build baseline (simple first)
-4. Apply ML / NLP / LLM where needed
-5. Turn it into a usable system
+1. Understand business problem
+2. Explore & clean data
+3. Define metrics (what matters?)
+4. Build baseline
+5. Apply ML if needed
+6. Deliver insight or system
 ```
 
 ---
 
 ## 📉 Currently Improving
 
-- Production-level ML systems  
-- LLM evaluation techniques  
-- Scalable pipelines  
-- Code quality & structure  
+```text
+→ Advanced feature engineering
+→ ML system design (beyond models)
+→ Analytics storytelling
+→ Scalable data pipelines
+```
 
 ---
 
@@ -113,18 +198,15 @@ Streamlit • Tableau • Power BI • BigQuery
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-ghanim-siddiqui-/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:mgs18112001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/MOHAMMED-GHANIM-SIDDIQUI">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Systems > Models. Clarity > Complexity.</i>
+  <i>Good analysis explains. Great analysis drives decisions.</i>
 </p>
