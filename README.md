@@ -168,6 +168,33 @@
 
 ---
 
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MOHAMMED-GHANIM-SIDDIQUI&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MOHAMMED-GHANIM-SIDDIQUI&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMMED-GHANIM-SIDDIQUI&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
 ## 🤝 Connect  
 
 <p align="center">
