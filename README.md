@@ -190,16 +190,14 @@
 
 ---
 
----
-
-## 🧪 My Approach to Data Problems  
+---## 🧪 My Approach to Data Problems  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Structured+Thinking+→+Real+Impact+🧪;From+Problem+→+Insight+→+System+⚡;No+Fluff+—+Just+What+Works+🎯" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Structured+Thinking+→+Real+Impact+🧪;From+Problem+→+Insight+→+System+⚡;No+Fluff+—+Just+What+Works+🎯" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=1.+Understand+the+Business+Problem+🧠;2.+Explore+%26+Clean+Data+Deeply+🔍;3.+Define+Meaningful+Metrics+📊;4.+Build+Strong+Baseline+⚙️;5.+Apply+ML+Only+if+Needed+🤖;6.+Deliver+Insights+or+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=1.+Understand+the+Business+Problem+🧠;2.+Explore+%26+Clean+Data+Deeply+🔍;3.+Define+Meaningful+Metrics+📊;4.+Build+Strong+Baseline+⚙️;5.+Apply+ML+Only+if+Needed+🤖;6.+Deliver+Insights+or+Systems+🚀" />
 </p>
 
 ---
@@ -207,16 +205,16 @@
 ## 📉 Currently Improving  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Always+Learning%2C+Always+Building+📉;Leveling+Up+Where+It+Matters+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Always+Learning%2C+Always+Building+📉;Leveling+Up+Where+It+Matters+⚡" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Advanced+Feature+Engineering+⚙️;ML+System+Design+(Production+Mindset)+🤖;Data+Storytelling+that+Drives+Decisions+📊;Scalable+Pipelines+%26+Architecture+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Advanced+Feature+Engineering+⚙️;ML+System+Design+(Production+Mindset)+🤖;Data+Storytelling+that+Drives+Decisions+📊;Scalable+Pipelines+%26+Architecture+🚀" />
 </p>
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-ghanim-siddiqui-/">
