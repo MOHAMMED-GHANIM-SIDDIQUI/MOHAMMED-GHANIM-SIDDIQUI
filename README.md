@@ -1,8 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mohammed Ghanim Siddiqui</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header"/>
+</p>
+
+<h1 align="center" style="color:#00DFFF; font-weight: 700; font-size: 48px;">
+  Hi 👋, I'm Mohammed Ghanim Siddiqui
+</h1>
 
 <h3 align="center">
-📊 Data Scientist | Analytics Engineer | ML Systems Builder
+  ⚡ 📊 Data Scientist &nbsp;|&nbsp; 📈 Analytics Engineer &nbsp;|&nbsp; 🤖 ML Systems Builder ⚡
 </h3>
+
+<p align="center">
+ 
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&center=true&vCenter=true&width=1000&lines=Data+→+Insights+→+Decisions;Analytics+%7C+Machine+Learning+%7C+NLP;SQL+%7C+Python+%7C+Visualization;Building+systems+that+drive+impact" />
@@ -12,149 +24,153 @@
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="420"/>
 </p>
 
----
+------
 
-## 🧠 Who I Am
+## 🧠 Who I Am  
 
-```text
-→ Data-first problem solver
-→ Strong in analytics + ML + real-world workflows
-→ Focus on turning raw data into decision systems
-→ AI is a tool — not the goal
-```
-
----
-
-## 📊 Impact Snapshot
-
-```text
-→ 1500+ live mentoring sessions (SQL, Python, ML, Analytics)
-→ Built ML systems for churn prediction & forecasting
-→ Developed NLP systems using embeddings & semantic similarity
-→ Worked on large-scale data pipelines (cleaning + transformation)
-→ Delivered real-world analytics workflows end-to-end
-```
-
----
-
-## 📈 What I Actually Work On
-
-### 📊 Data Analysis & Business Insight
-- Exploratory Data Analysis (EDA)
-- KPI tracking & dashboarding
-- Data cleaning, transformation, feature engineering
-- Translating data → business decisions
-
----
-
-### 🤖 Machine Learning Systems
-- Classification (Logistic Regression, Random Forest)
-- Clustering (K-Means + PCA)
-- Regression (forecasting models)
-- Model evaluation & improvement
-
----
-
-### 💬 Applied NLP (Selective, not hype)
-- Semantic similarity (Sentence Transformers)
-- Text classification pipelines
-- Duplicate detection systems
-- RAG (as extension, not core identity)
-
----
-## ⚙️ Tech Stack (What I Actually Use)
-
-### 📊 Data & Analytics
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Querying-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data-first+problem+solver+🧠;Analytics+%2B+ML+%2B+Real-world+execution+⚡;Turning+data+into+decision+systems+📊;AI+is+a+tool+—+not+the+goal+🎯" />
 </p>
 
 ---
 
-### 🤖 Machine Learning
+## 📊 Impact Snapshot  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=1500%2B+Mentoring+Sessions+🎓;Built+ML+Systems+(Churn+%2B+Forecasting)+🤖;NLP+Systems+(Embeddings+%2B+Semantic)+💬;Worked+on+Real-world+Data+Pipelines+⚙️;End-to-end+Analytics+Workflows+🚀" />
 </p>
 
 ---
 
-### 💬 NLP & Applied AI
+## 📈 What I Actually Work On  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-RAG%20Pipelines-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Data-driven+Systems+📊;From+Analysis+→+Insights+→+Decisions+⚡;ML+that+actually+solves+problems+🤖" />
 </p>
 
 ---
 
-### 📈 Visualization & BI
+### 📊 Data Analysis & Business Insight  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Tableau-Dashboarding-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PowerBI-Analytics-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-Analysis-217346?style=for-the-badge&logo=microsoft-excel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Exploratory+Data+Analysis+(EDA)+🔍;KPI+Tracking+%26+Dashboards+📊;Data+Cleaning+%2B+Feature+Engineering+⚙️;Translating+Data+→+Business+Decisions+💡" />
 </p>
 
 ---
 
-### 🗄️ Data Infrastructure
+### 🤖 Machine Learning Systems  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/BigQuery-Cloud%20Warehouse-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-Relational-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Classification+(LogReg+%2C+Random+Forest)+🎯;Clustering+(K-Means+%2B+PCA)+📌;Forecasting+%2F+Regression+Models+📈;Model+Evaluation+%26+Iteration+🔁" />
 </p>
 
 ---
 
-### ⚙️ Tools & Deployment
+### 💬 Applied NLP (Selective, not hype)  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-Apps-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Colab-Experimentation-F9AB00?style=for-the-badge&logo=googlecolab" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Semantic+Similarity+(Sentence+Transformers)+🧠;Text+Classification+Pipelines+📄;Duplicate+Detection+Systems+🔍;RAG+(Extension%2C+not+Identity)+⚡" />
+</p>
+
+## ⚙️ Tech Stack (What I Actually Use)  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Tools+I+Use+to+Build+Real+Systems+⚙️;From+Data+→+ML+→+Deployment+🚀;Focused+on+Practical+Impact+📊" />
 </p>
 
 ---
 
-## 📌 Selected Projects
+### 📊 Data & Analytics  
 
-### 📊 Customer Intelligence System
-- Segmentation (K-Means + PCA)
-- Churn prediction (RF, Logistic Regression)
-- Revenue forecasting  
-→ Used for **data-driven retention & growth decisions**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=EDA+%2C+Feature+Engineering+🔍;Data+Cleaning+%26+Transformation+⚙️;SQL+for+Real-world+Querying+📊" />
+</p>
 
 ---
 
-### 💬 Semantic Duplicate Detection
-- Sentence Transformers embeddings  
-- Feature engineering + classification  
-→ Improved intent understanding beyond keywords  
+### 🤖 Machine Learning  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Classification+%2C+Clustering+%2C+Forecasting+🤖;Model+Evaluation+%26+Iteration+🔁;ML+for+Decision+Systems+🎯" />
+</p>
 
 ---
 
-### 😏 Sarcasm Detection App
-- NLP preprocessing + ML pipeline  
-- Multi-format input (PDF, DOCX, TXT)  
-→ Real-time inference via Streamlit  
+### 💬 NLP & Applied AI  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Semantic+Search+%26+Embeddings+🧠;Text+Classification+Pipelines+📄;Applied+NLP+Systems+💬" />
+</p>
 
 ---
 
-### 🔍 RAG QA System (Extension Work)
-- Semantic retrieval + LLM pipeline  
-- Built as **applied NLP system on top of data pipelines**
+### 📈 Visualization & BI  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Dashboards+that+Drive+Decisions+📊;Storytelling+with+Data+📈;Business+Insights+→+Action+💡" />
+</p>
 
 ---
+
+### 🗄️ Data Infrastructure  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Handling+Structured+%26+Unstructured+Data+🗄️;Cloud+%26+Database+Workflows+⚙️;Scalable+Data+Pipelines+🚀" />
+</p>
+
+---
+
+### ⚙️ Tools & Deployment  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Rapid+Prototyping+%26+Deployment+⚡;Version+Control+%26+Collaboration+🔁;Experimentation+→+Production+🚀" />
+</p>
+
+---
+
+## 📌 Selected Projects  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Projects+that+Show+Real+Impact+🚀;Built+for+Problems+that+Matter+📊" />
+</p>
+
+---
+
+### 📊 Customer Intelligence System  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Segmentation+(K-Means+%2B+PCA)+📊;Churn+Prediction+(RF+%2C+LogReg)+🤖;Revenue+Forecasting+📈;Used+for+Retention+%26+Growth+Decisions+🎯" />
+</p>
+
+---
+
+### 💬 Semantic Duplicate Detection  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Sentence+Transformers+Embeddings+🧠;Feature+Engineering+%2B+Classification+⚙️;Better+Intent+Understanding+💬" />
+</p>
+
+---
+
+### 😏 Sarcasm Detection App  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=NLP+Pipeline+%2B+Preprocessing+📄;Multi-format+Input+(PDF+%2C+DOCX+%2C+TXT)+📂;Real-time+Inference+(Streamlit)+⚡" />
+</p>
+
+---
+
+### 🔍 RAG QA System (Extension Work)  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Semantic+Retrieval+%2B+LLM+Pipeline+🔍;Applied+NLP+on+Data+Systems+⚙️;Built+for+Real+Use%2C+not+Demo+🚀" />
+</p>
 
 ## 📊 GitHub Performance
 
-### 🧬 contribution snake (dramatic but effective)
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MOHAMMED-GHANIM-SIDDIQUI&theme=tokyonight&hide_border=true" />
@@ -174,27 +190,29 @@
 
 ---
 
-## 🧪 My Approach to Data Problems
+---
 
-```text
-1. Understand business problem
-2. Explore & clean data
-3. Define metrics (what matters?)
-4. Build baseline
-5. Apply ML if needed
-6. Deliver insight or system
-```
+## 🧪 My Approach to Data Problems  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Structured+Thinking+→+Real+Impact+🧪;From+Problem+→+Insight+→+System+⚡;No+Fluff+—+Just+What+Works+🎯" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=1.+Understand+the+Business+Problem+🧠;2.+Explore+%26+Clean+Data+Deeply+🔍;3.+Define+Meaningful+Metrics+📊;4.+Build+Strong+Baseline+⚙️;5.+Apply+ML+Only+if+Needed+🤖;6.+Deliver+Insights+or+Systems+🚀" />
+</p>
 
 ---
 
-## 📉 Currently Improving
+## 📉 Currently Improving  
 
-```text
-→ Advanced feature engineering
-→ ML system design (beyond models)
-→ Analytics storytelling
-→ Scalable data pipelines
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Always+Learning%2C+Always+Building+📉;Leveling+Up+Where+It+Matters+⚡" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Advanced+Feature+Engineering+⚙️;ML+System+Design+(Production+Mindset)+🤖;Data+Storytelling+that+Drives+Decisions+📊;Scalable+Pipelines+%26+Architecture+🚀" />
+</p>
 
 ---
 
@@ -210,6 +228,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+</p>
 
 <p align="center">
   <i>Good analysis explains. Great analysis drives decisions.</i>
